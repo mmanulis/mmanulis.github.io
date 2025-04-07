@@ -1,0 +1,41 @@
+.typography ul{
+  margin-left:20px;
+  margin-bottom:20px;
+}
+
+.content h1,
+.typography h1{
+  color: #656551;
+  font-size: 23px;
+  letter-spacing: -1px;
+}
+.content h3,
+.typography h2{
+  font-size: 18px;
+  font-weight: normal;
+  margin-top:10px;
+  color: #656551;
+}
+.content h4,
+.typography h3{
+  font-size: 16px;
+  color: #656551;
+}
+.content h5,
+.typography h4{
+  font-size: 12px;
+  color: #656551;
+  font-weight:bold;
+}
+.content h6,
+.typography h5{
+  font-size: 10px;
+  color: #656551;
+  letter-spacing: -1px;
+}
+.content h7,
+.typography h6{
+  font-size: 8px;
+  color: #656551;
+  letter-spacing: -1px;
+}
