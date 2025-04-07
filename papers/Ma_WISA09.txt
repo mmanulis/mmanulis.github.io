@@ -1,0 +1,9 @@
+@inproceedings{Ma_WISA09,
+  author    = {Mark Manulis},
+  title     = {{Securing Remote Access Inside Wireless Mesh Networks}},	
+  booktitle = {Proceedings of the 10th International Workshop on Information Security and Applications (WISA 2009)},
+  publisher = {Springer-Verlag},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5932},
+  pages     = {324--338},
+  year      = {2009}}

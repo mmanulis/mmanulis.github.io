@@ -1,0 +1,10 @@
+@inproceedings{KuMa_InTrust14,
+  author    = {Veronika Kuchta and
+               Mark Manulis},
+  title     = {{Rerandomizable Threshold Blind Signatures}},
+  booktitle = {6th International Conference on Trusted Systems (INTRUST)},
+  year      = {2014},
+  pages     = {70--89},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {9473}}

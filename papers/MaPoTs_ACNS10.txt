@@ -1,0 +1,10 @@
+@inproceedings{MaPoTs_ACNS10,
+  author    = {Mark Manulis and Bertram Poettering and Gene Tsudik},
+  title     = {{Affiliation-Hiding Key Exchange with Untrusted Group Authorities}},
+  booktitle = {8th International Conference on Applied Cryptography and Network Security (ACNS 2010)},
+  year      = {2010},
+  pages     = {402--419},
+  series    = {LNCS},
+  volume    = {6123},
+  publisher = {Springer}}
+

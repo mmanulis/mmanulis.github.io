@@ -1,0 +1,6 @@
+@misc{GaMaPe_eprint08,
+    author = {Sebastian Gajek and Mark Manulis and Olivier Pereira},
+    title = {Universally Composable Security Analysis of TLS---Secure Sessions with Handshake and Record Layer Protocols},
+    howpublished = {Cryptology ePrint Archive, Report 2008/251},
+    year = {2008},
+    note = {\url{http://eprint.iacr.org/2008/251/}}}

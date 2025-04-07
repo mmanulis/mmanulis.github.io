@@ -1,0 +1,10 @@
+@inproceedings{KiMa_ESORICS14,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Zero-Knowledge Password Policy Checks and Verifier-Based {PAKE}}},
+  booktitle = {19th European Symposium on Research in Computer Security (ESORICS)},
+  year      = {2014},
+  pages     = {295--312},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {8713}}

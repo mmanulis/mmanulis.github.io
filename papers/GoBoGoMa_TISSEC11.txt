@@ -1,0 +1,9 @@
+@article{GoBoGoMa_TISSEC11,
+ author = {M. C. Gorantla and Colin Boyd and Juan Manuel Gonz\'{a}lez Nieto and Mark Manulis},
+ title = {{Modeling Key Compromise Impersonation Attacks on Group Key Exchange Protocols}},
+ journal = {ACM Transactions on Information and Systems Security (TISSEC)},
+ volume = {14},
+ issue = {4},
+ pages = {Article 28},
+ year = {2011},
+ publisher = {ACM}} 

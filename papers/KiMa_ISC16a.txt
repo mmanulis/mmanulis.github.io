@@ -1,0 +1,10 @@
+@inproceedings{KiMa_ISC16a,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Blind Password Registration for Two-Server Password Authenticated Key Exchange and Secret Sharing Protocols}},
+  booktitle = {19th Information Security Conference (ISC)},
+  year      = {2016},
+  pages     = {95--114},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {9866}}

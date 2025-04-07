@@ -1,0 +1,10 @@
+@inproceedings{KiMa_ISC16b,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Universally Composable Two-Server PAKE}},
+  booktitle = {19th Information Security Conference (ISC)},
+  year      = {2016},
+  pages     = {147--166},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {9866}}

@@ -1,0 +1,7 @@
+@inproceedings{GaMaSaSc_ASIACCS08,
+author = {Sebastian Gajek and Mark Manulis and Ahmad-Reza Sadeghi and J{\"o}rg Schwenk},
+title = {{Provably Secure Browser-Based User-Aware Mutual Authentication over TLS}},
+booktitle = {Proceedings of ACM Symposium on Information, Computer and Communications Security (ASIACCS'08)},
+publisher = {ACM Press},
+pages     = {300--311},
+year      = {2008}}

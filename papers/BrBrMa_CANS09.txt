@@ -1,0 +1,10 @@
+@inproceedings{BrBrMa_CANS09,
+  author    = {Emmanuel Bresson and Timo Brecher and Mark Manulis},
+  title     = {{Fully Robust Tree-Diffie-Hellman Group Key Exchange}},	
+  booktitle = {Proceedings of the 8th International Conference on Cryptology and Network Security (CANS 2009)},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5888},
+  pages     = {478--497},
+  year      = {2009},
+  month	    = {December}}

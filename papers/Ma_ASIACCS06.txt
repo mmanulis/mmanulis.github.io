@@ -1,0 +1,10 @@
+@inproceedings{Ma06,
+ author = {Mark Manulis},
+ title = {Democratic {G}roup {S}ignatures - {O}n an {E}xample of {J}oint {V}entures - {F}ast {A}bstract},
+ booktitle = {Proceedings of ACM Symposium on Information, Computer and Communications Security (ASIACCS'06)},
+ pages = {365},
+ year = {2006},
+ publisher = {ACM Press},
+ isbn = {1-59593-272-0},
+ note = {Full version at: \url{http://eprint.iacr.org/2005/446}},
+}

@@ -1,0 +1,9 @@
+@inproceedings{DrGaMa_CANS18,
+  author    = {Constantin C{\u{a}}t{\u{a}}lin Dr{\u{a}}gan and Daniel Gardham and Mark Manulis},
+  title     = {{Hierarchical Attribute-Based Signatures}},
+  booktitle = {Cryptology and Network Security - CANS 2018},
+  year      = {2018},
+  series    = {LNCS},
+  volume    = {11124},
+  pages     = {213--234},
+  publisher = {Springer}}

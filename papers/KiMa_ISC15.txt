@@ -1,0 +1,10 @@
+@inproceedings{KiMa_ISC15,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Oblivious PAKE: Efficient Handling of Password Trials}},
+  booktitle = {18th Information Security Conference (ISC)},
+  year      = {2015},
+  pages     = {191--208},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {9290}}

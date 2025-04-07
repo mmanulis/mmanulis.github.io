@@ -1,0 +1,10 @@
+@inproceedings{MaSuUs_ICISC09,
+  author    = {Mark Manulis and Koutarou Suzuki and Berkant Ustaoglu},
+  title     = {{Modeling Leakage of Ephemeral Secrets in Tripartite/Group Key Exchange}},
+  booktitle = {12th International Conference on Information, Security, and Cryptology (ICISC 2009)},
+  year      = {2009},
+  pages     = {16--33},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {5984}}
+

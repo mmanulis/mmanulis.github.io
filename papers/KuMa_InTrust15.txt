@@ -1,0 +1,10 @@
+@inproceedings{KuMa_InTrust15,
+  author    = {Veronika Kuchta and
+               Mark Manulis},
+  title     = {{Public Key Encryption with Distributed Keyword Search}},
+  booktitle = {7th International Conference on Trusted Systems (INTRUST)},
+  year      = {2016},
+  pages     = {62--83},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {9565}}

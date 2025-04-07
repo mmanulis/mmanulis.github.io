@@ -1,0 +1,7 @@
+@inproceedings{LiMa06,
+ author = {Lijun Liao and Mark Manulis},
+ title = {{Tree-Based Group Key Agreement Framework for Mobile Ad-Hoc Networks}},
+ booktitle = {Proceedings of 20th International Conference on Advanced Information Networking and Applications (AINA 2006), Vol. 2},
+ pages = {5--9},
+ publisher = {IEEE Computer Society},
+ year = {2006}}

@@ -1,0 +1,9 @@
+@inproceedings{GuMaPe_CANS14,
+  author    = {Felix G{\"{u}}nther and Mark Manulis and Andreas Peter},
+  title     = {{Privacy-Enhanced Participatory Sensing with Collusion Resistance and Data Aggregation}},
+  booktitle = {13th International Conference on Cryptology and Network Security (CANS)},
+  year      = {2014},
+  pages     = {321--336},
+  volume    = {8813},
+  series    = {LNCS},
+  publisher = {Springer}}

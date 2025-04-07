@@ -1,0 +1,10 @@
+@inproceedings{DeMaPo_ACNS11,
+  author    = {Emiliano {De Cristofaro} and Mark Manulis and Bertram Poettering},
+  title     = {{Private Discovery of Common Social Contacts}},
+  booktitle = {9th International Conference on Applied Cryptography and Network Security (ACNS)},
+  year      = {2011},
+  pages     = {147--165},
+  series    = {LNCS},
+  volume    = {6715},
+  year      = {2011},
+  publisher = {Springer}}

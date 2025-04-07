@@ -1,0 +1,7 @@
+@inproceedings{MaLeKoBoQu_ASIACCS09,
+author = {Mark Manulis and Damien Leroy and Francois Koeune and Olivier Bonaventure and Jean-Jacques Quisquater},
+title = {{Authenticated Wireless Roaming via Tunnels: Making Mobile Guests Feel at Home}},
+booktitle = {Proceedings of ACM Symposium on Information, Computer and Communications Security (ASIACCS'09)},
+publisher = {ACM Press},
+pages     = {92--103},
+year      = {2009}}}

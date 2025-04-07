@@ -1,0 +1,9 @@
+@inproceedings{LiMa_ACNS19,
+  author    = {Jia Liu and Mark Manulis},
+  title     = {{pRate: Anonymous Star Rating with Rating Secrecy}},
+  booktitle = {Applied Cryptography and Network Security - ACNS 2019},
+  year      = {2019},
+  series    = {LNCS},
+  volume    = {11464},
+  pages     = {550--570},
+  publisher = {Springer}}

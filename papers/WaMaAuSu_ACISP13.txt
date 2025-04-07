@@ -1,0 +1,12 @@
+@inproceedings{WaMaAuSu_ACISP13,
+  author    = {Yang Wang and
+               Mark Manulis and
+               Man Ho Au and
+	       Willy Susilo},
+  title     = {{Relations among Privacy Notions for Signcryption and Key Invisible ``Sign-then-Encrypt''}},
+  booktitle = {18th Australasian Conference on Information Security and Privacy (ACISP 2013)},
+  year      = {2013},
+  pages     = {187--202},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {7959}}

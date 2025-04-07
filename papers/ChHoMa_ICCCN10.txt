@@ -1,0 +1,7 @@
+@inproceedings{ChHoMa_ICCCN10,
+ author = {Delphine Christin and Matthias Hollick and Mark Manulis},
+ title = {{Security and Privacy Objectives for Sensing Applications in Wireless Community Networks}},
+ booktitle = {Proceedings of 19th International Conference on Computer Communications and Networks (ICCCN 2010)},
+ pages = {1--6},
+ publisher = {IEEE Computer Society},
+ year = {2010}}

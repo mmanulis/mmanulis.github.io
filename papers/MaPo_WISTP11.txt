@@ -1,0 +1,9 @@
+@inproceedings{MaPo_WISTP11,
+  author    = {Mark Manulis and Bertram Poettering},
+  title     = {{Affiliation-Hiding Authentication with Minimal Bandwidth Consumption}},
+  booktitle = {IFIP WG 11.2 International Workshop on Information Security Theory and Practice (WISTP)},
+  year      = {2011},
+  pages     = {85--99},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {6633}}

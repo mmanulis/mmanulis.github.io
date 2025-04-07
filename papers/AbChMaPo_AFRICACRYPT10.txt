@@ -1,0 +1,10 @@
+@inproceedings{AbChMaPo_AFRICACRYPT10,
+  author    = {Michel Abdalla and C{\'e}line Chevalier and Mark Manulis and David Pointcheval},
+  title     = {{Flexible Group Key Exchange with On-Demand Computation of Subgroup Keys}},	
+  booktitle = {AFRICACRYPT 2010)},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {6055},
+  pages     = {351--368},
+  year      = {2010},
+  month	    = {May}}

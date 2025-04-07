@@ -1,0 +1,7 @@
+@inproceedings{MaSa06,
+ author = {Mark Manulis and Ahmad-Reza Sadeghi},
+ title = {{Property-Based Taming of Lying Mobile Nodes}},
+ booktitle = {Proceedings of 20th International Conference on Advanced Information Networking and Applications (AINA 2006), Vol. 2},
+ pages = {476--480},
+ publisher = {IEEE Computer Society},
+ year = {2006}}

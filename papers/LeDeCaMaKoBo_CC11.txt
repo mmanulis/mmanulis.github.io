@@ -1,0 +1,14 @@
+@article{LeDeCaMaKoBo11,
+  author    = {Damien Leroy and
+               Gregory Detal and
+               Julien Cathalo and
+               Mark Manulis and
+               Fran\c{c}ois Koeune and
+               Olivier Bonaventure},
+  title     = {{SWISH: Secure WiFi sharing}},
+  journal   = {Computer Networks},
+  volume    = {55},
+  number    = {7},
+  year      = {2011},
+  pages     = {1614-1630},
+  publisher = {Elsevier}}

@@ -1,0 +1,9 @@
+@inproceedings{ChLoMaSa08,
+  author    = {Liqun Chen and Hans L{\"o}hr and Mark Manulis and Ahmad-Reza Sadeghi},
+  title     = {{Property-Based Attestation without a Trusted Third Party}},
+  booktitle = {Information Security, 11th International Conference, ISC 2008},
+  year      = {2008},
+  pages     = {31--46},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5222}}

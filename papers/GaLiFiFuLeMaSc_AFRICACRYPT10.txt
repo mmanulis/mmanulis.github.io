@@ -1,0 +1,10 @@
+@inproceedings{GaLiFiFuLeMaSc_AFRICACRYPT10,
+  author    = {David Galindo and Benoit Libert and Marc Fischlin and Georg Fuchsbauer and Anja Lehmann and Mark Manulis and Dominique Schr{\"o}der},
+  title     = {{Public-Key Encryption with Non-interactive Opening: New Constructions and Stronger Definitions}},	
+  booktitle = {AFRICACRYPT 2010)},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {6055},
+  pages     = {333--350},
+  year      = {2010},
+  month	    = {May}}

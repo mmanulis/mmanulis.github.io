@@ -1,0 +1,9 @@
+@article{MaSc_TOSN09,
+  author    = {Mark Manulis and J{\" o}rg Schwenk},
+  title     = {Security Model and Framework for Information Aggregation in Sensor Networks},	
+  journal = {ACM Transactions on Sensor Networks (TOSN)},
+  volume = {5},
+  number = {2},
+  pages = {Article 13},
+  year = {2009},
+  publisher = {ACM}}

@@ -1,0 +1,11 @@
+@article{DeMaPo_IJIS13,
+  author    = {Emiliano De Cristofaro and
+               Mark Manulis and
+               Bertram Poettering},
+  title     = {{Private Discovery of Common Social Contacts}},
+  journal   = {International Journal of Information Security},
+  volume    = {12},
+  number    = {1},
+  year      = {2013},
+  pages     = {49--65},
+  publisher = {Springer}}

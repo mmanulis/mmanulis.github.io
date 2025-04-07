@@ -1,0 +1,9 @@
+@inproceedings{DrMa_SAC2020,
+  author    = {Constantin Catalin Dragan and
+               Mark Manulis},
+  title     = {{KYChain: User-controlled {KYC} data sharing and certification}},
+  booktitle = {35th {ACM/SIGAPP} Symposium on Applied Computing (ACM SAC 2020)},
+  pages     = {301--307},
+  publisher = {{ACM}},
+  year      = {2020}
+}

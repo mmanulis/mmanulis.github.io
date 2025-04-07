@@ -1,0 +1,9 @@
+@inproceedings{ArEsLoMaSa08,
+  author    = {Frederik Armknecht and Alberto N. Escalante and Hans L{\"o}hr and Mark Manulis and Ahmad-Reza Sadeghi},
+  title     = {{Secure Multi-Coupons for Federated Environments: Privacy-Preserving and Customer-Friendly}},
+  booktitle = {Information Security Practice and Experience, 4th International Conference, ISPEC 2008},
+  year      = {2008},
+  pages     = {29--44},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4991}}

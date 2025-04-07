@@ -1,0 +1,9 @@
+@inproceedings{GaMaSc_ACISP08,
+author = {Sebastian Gajek and Mark Manulis and J{\"o}rg Schwenk},
+title = {{Enforcing User-Aware Browser-Based Mutual Authentication with Strong Locked Same Origin Policy}},
+booktitle = {Proceedings of 13th Australasian Conference on Information Security and Privacy (ACISP 2008)},
+pages     = {6-20},
+series    = {Lecture Notes in Computer Science},
+volume    = {5107},
+publisher = {Springer},
+year      = {2008}}

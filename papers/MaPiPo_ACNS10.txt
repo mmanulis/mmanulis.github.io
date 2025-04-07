@@ -1,0 +1,10 @@
+@inproceedings{MaPiPo_ACNS10,
+  author    = {Mark Manulis and Benny Pinkas and Bertram Poettering},
+  title     = {{Privacy-Preserving Group Discovery with Linear Complexity}},
+  booktitle = {8th International Conference on Applied Cryptography and Network Security (ACNS 2010)},
+  year      = {2010},
+  pages     = {420--437},
+  series    = {LNCS},
+  volume    = {6123},
+  publisher = {Springer}}
+

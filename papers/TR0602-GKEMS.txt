@@ -1,0 +1,7 @@
+@techreport{Ma06a,
+  author 		=  {Mark Manulis},
+  title 		=  {Survey on {S}ecurity {R}equirements and {M}odels for {G}roup {K}ey {E}xchange},
+  institution 	=  {Horst-G\"ortz Institute, Network and Data Security Group},
+  year 		=  {2008},
+  number 		=  {2006/02},
+  month 		=  {January}}

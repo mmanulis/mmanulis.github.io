@@ -1,0 +1,11 @@
+@inproceedings{FlGuKiMaPo_ASIACCS13,
+  author    = {Nils Fleischhacker and
+               Felix G{\"u}nther and
+               Franziskus Kiefer and
+               Mark Manulis and
+               Bertram Poettering},
+  title     = {{Pseudorandom Signatures}},
+  booktitle = {8th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2013)},
+  year      = {2013},
+  pages     = {107--118},
+  publisher = {ACM}}

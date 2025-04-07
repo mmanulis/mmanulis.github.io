@@ -1,0 +1,7 @@
+@inproceedings{LeMaBo_CoNEXT09,
+author = {Damien Leroy and Mark Manulis and Olivier Bonaventure},
+title = {{Enhanced Wireless Roaming Security Using Three-Party Authentication and Tunnels}},
+booktitle = {Proceedings of the 1st ACM workshop on User-provided Networking (U-Net), CoNEXT 2009},
+publisher = {ACM Press},
+pages     = {7--12},
+year      = {2009}}}

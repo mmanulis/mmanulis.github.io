@@ -1,0 +1,7 @@
+@inproceedings{CaLoMaSaWi_LISA09,
+author = {Luigi Catuogno and Hans L{\"o}hr and Mark Manulis and Ahmad-Reza Sadeghi and Marcel Winandy},
+title = {{Transparent Mobile Storage Protection in Trusted Virtual Domains}},
+booktitle = {23rd USENIX Large Installation Systems Administration Conference (LISA 2009)},
+publisher = {USENIX Association},
+pages     = {159--172},
+year      = {2009}}

@@ -1,0 +1,11 @@
+@BOOK{Man07_PSGKE,
+  AUTHOR =       {Mark Manulis},
+  editor =       {Christof Paar and Ahmad-Reza Sadeghi and J{\"o}rg Schwenk},
+  TITLE =        {Provably {S}ecure {G}roup {K}ey {E}xchange},
+  PUBLISHER =    {Europ{\"a}ischer Universit{\"a}tsverlag},
+  YEAR =         {2007},
+  volume =       {5},
+  series =       {IT Security},
+  address =      {Berlin, Bochum, D{\"u}lmen, London, Paris},
+  month =        {August},
+  isbn =         {978-3-89966-275-7}}

@@ -1,0 +1,9 @@
+@inproceedings{GaMaPeSaSc_ProvSec08,
+author = {Sebastian Gajek and Mark Manulis and Olivier Pereira and Ahmad-Reza Sadeghi and J{\"o}rg Schwenk},
+title = {{Universally Composable Security Analysis of TLS.}},
+booktitle = {Proceedings of the 2nd International Conference on Provable Security (ProvSec 2008)},
+pages     = {313--327},
+series    = {Lecture Notes in Computer Science},
+volume    = {5324},
+publisher = {Springer},
+year      = {2008}}

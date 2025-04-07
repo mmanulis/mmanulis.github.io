@@ -1,0 +1,10 @@
+@inproceedings{KuMa_CANS13,
+  author    = {Veronika Kuchta and
+               Mark Manulis},
+  title     = {{Unique Aggregate Signatures with Applications to Distributed Verifiable Random Functions}},
+  booktitle = {12th International Conference on Cryptology and Network Security (CANS)},
+  year      = {2013},
+  pages     = {251--270},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {8257}}

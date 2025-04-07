@@ -1,0 +1,9 @@
+@article{CaLoMaSaStWi_DuD10,
+author =    {Luigi Catuogno and Hans L{\"o}hr and Mark Manulis and Ahmad-Reza Sadeghi and Christian St{\"u}ble and Marcel Winandy},
+title =     {{Trusted Virtual Domains: Color Your Network}},
+journal =   {Datenschutz und Datensicherheit (DuD)},
+volume =    {34},
+number =    {5},
+pages     = {289--294},
+publisher = {Springer},
+year      = {2010}}

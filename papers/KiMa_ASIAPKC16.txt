@@ -1,0 +1,8 @@
+@inproceedings{KiMa_ASIAPKC16,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Universally Composable Two-Server PAKE}},
+  booktitle = {3rd ACM ASIA Public-Key Cryptography Workshop (ASIAPKC)},
+  year      = {2016},
+  pages     = {39--48},
+  publisher = {ACM}}

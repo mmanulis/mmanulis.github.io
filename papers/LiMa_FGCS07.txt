@@ -1,0 +1,10 @@
+@article{LiMa07,
+  author =       {Lijun Liao and Mark Manulis},
+  title =        {{T}ree-{B}ased {G}roup {K}ey {A}greement {F}ramework for {M}obile {A}d-{H}oc {N}etworks},
+  journal =      {Future Generation Computer Systems (FGCS)},
+  year =         {2007},
+  volume =       {23},
+  number =       {6},
+  pages =        {787--803},
+  month =        {July},
+}

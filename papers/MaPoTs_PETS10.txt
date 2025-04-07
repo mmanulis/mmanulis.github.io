@@ -1,0 +1,10 @@
+@inproceedings{MaPoTs_PETS10,
+  author    = {Mark Manulis and Bertram Poettering and Gene Tsudik},
+  title     = {{Taming Big Brother Ambitions: More Privacy for Secret Handshakes}},
+  booktitle = {10th Privacy Enhancing Technologies Symposium (PETS 2010)},
+  year      = {2010},
+  pages     = {149--165},
+  series    = {LNCS},
+  volume    = {6205},
+  publisher = {Springer}}
+

@@ -1,0 +1,7 @@
+@inproceedings{StMaHo_ARES12,
+ author = {Stanislaus Stelle and Mark Manulis and Matthias Hollick},
+ title = {{Topology-Driven Secure Initialization in Wireless Sensor Networks: A Tool-Assisted Approach}},
+ booktitle = {7th International Conference on International Conference on Availability, Reliability and Security (ARES 2012)},
+ pages = {28--37},
+ publisher = {IEEE Computer Society},
+ year = {2012}}

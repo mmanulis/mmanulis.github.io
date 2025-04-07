@@ -1,0 +1,9 @@
+@inproceedings{GaJaMaSc_ESORICS08,
+author = {Sebastian Gajek and Tibor Jager and Mark Manulis and J{\"o}rg Schwenk},
+title = {{A Browser-Based Kerberos Authentication Scheme}},
+booktitle = {Proceedings of 13th European Symposium on Research in Computer Security (ESORICS 2008)},
+pages     = {115--129},
+series    = {Lecture Notes in Computer Science},
+volume    = {5283},
+publisher = {Springer},
+year      = {2008}}

@@ -1,0 +1,10 @@
+@inproceedings{DeFiMaScSt_PKC10,
+  author    = {Alexander W. Dent and Marc Fischlin and Mark Manulis and Martijn Stam and Dominique Schr{\"o}der},
+  title     = {{Confidential Signatures and Deterministic Signcryption}},	
+  booktitle = {13th International Conference on Practice and Theory in Public Key Cryptography (PKC 2010)},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6056},
+  pages     = {462--479},
+  year      = {2010},
+  month	    = {May}}

@@ -1,0 +1,10 @@
+@inproceedings{Ma_ACNS09,
+  author    = {Mark Manulis},
+  title     = {{Group Key Exchange Enabling On-Demand Derivation of Peer-to-Peer Keys}},	
+  booktitle = {Proceedings of the 7th International Conference on Applied Cryptography and Network Security (ACNS 2009)},
+  publisher = {Springer-Verlag},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5536},
+  pages     = {1--19},
+  year      = {2009},
+  month	    = {June}}

@@ -1,0 +1,11 @@
+@article{MaSuUs_IEICE13,
+  author    = {Mark Manulis and
+               Koutarou Suzuki and
+               Berkant Ustaoglu},
+  title     = {{Modeling Leakage of Ephemeral Secrets in Tripartite/Group
+               Key Exchange}},
+  journal   = {IEICE Transactions},
+  volume    = {96-A},
+  number    = {1},
+  year      = {2013},
+  pages     = {101--110}}

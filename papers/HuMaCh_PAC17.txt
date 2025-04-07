@@ -1,0 +1,13 @@
+@inproceedings{HuMaCh_PAC17,
+ 
+author = {Kaibin Huang and Mark Manulis and Liqun Chen},
+ 
+title = {{Password Authenticated Keyword Search}},
+ 
+booktitle = {IEEE Symposium on Privacy-Aware Computing (IEEE PAC 2017)},
+ 
+pages = {129--140},
+ 
+publisher = {IEEE Computer Society},
+ 
+year = {2017}}

@@ -1,0 +1,11 @@
+@inproceedings{MaStDe_SSR14,
+  author    = {Mark Manulis and
+               Douglas Stebila and
+               Nick Denham},
+  title     = {{Secure Modular Password Authentication for the Web Using Channel Bindings}},
+  booktitle = {1st International Conference on Security Standardisation Research (SSR 2014)},
+  year      = {2014},
+  pages     = {167--189},
+  volume    = {8893},
+  series    = {LNCS},
+  publisher = {Springer}}

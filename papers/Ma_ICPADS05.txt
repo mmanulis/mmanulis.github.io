@@ -1,0 +1,7 @@
+@inproceedings{Ma05a,
+ author = {Mark Manulis},
+ title = {{Key Agreement for Heterogeneous Mobile Ad-Hoc Groups}},
+ booktitle = {Proceedings of 11th International Conference on Parallel and Distributed Systems (ICPADS 2005), Vol. 2},
+ pages = {290--294},
+ publisher = {IEEE Computer Society},
+ year = {2005}}

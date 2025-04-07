@@ -1,0 +1,11 @@
+@article{MaStKiDe_IJIS16,
+author="Mark Manulis and Douglas Stebila and Franziskus Kiefer and Nick Denham",
+title="Secure modular password authentication for the web using channel bindings",
+journal="International Journal of Information Security",
+year="2016",
+month="Nov",
+day="01",
+volume="15",
+number="6",
+pages="597--620"}
+

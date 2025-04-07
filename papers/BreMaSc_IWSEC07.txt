@@ -1,0 +1,10 @@
+@inproceedings{BreMaSc_IWSEC07,
+  author    = {Emmanuel Bresson and Mark Manulis and J{\" o}rg Schwenk},
+  title     = {On {S}ecurity {M}odels and {C}ompilers for {G}roup {K}ey {E}xchange {P}rotocols},	
+  booktitle = {Proceedings of the 2nd International Workshop on Security (IWSEC 2007)},
+  publisher = {Springer-Verlag},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4752},
+  pages     = {292--307},
+  year      = {2007},
+  month	    = {October}}

@@ -1,0 +1,7 @@
+@inproceedings{MaSt_PST11,
+  author    = {Mark Manulis and Marion Steiner},
+  title     = {{UPBA: User-Authenticated Property-Based Attestation}},
+  booktitle = {Ninth Annual Conference on Privacy, Security and Trust (PST)},
+  year      = {2011},
+  pages     = {112--119},
+  publisher = {IEEE}}

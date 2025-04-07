@@ -1,0 +1,9 @@
+@inproceedings{CELMS07,
+author = {Liqun Chen and Alberto N. Escalante and Hans L{\"o}hr and Mark Manulis and Ahmad-Reza Sadeghi},
+title = {A {P}rivacy-{P}rotecting {M}ulti-{C}oupon {S}cheme with {S}tronger {P}rotection against {S}plitting},
+booktitle = {Financial Cryptography and Data Security, 11th International Conference, FC 2007},
+publisher = {Springer-Verlag},
+series    = {Lecture Notes in Computer Science},
+volume    = {4886},
+pages     = {29--44},
+year      = {2008}}

@@ -1,0 +1,9 @@
+@inproceedings{FiLiMa_ASIACRYPT11,
+  author    = {Marc Fischlin and Beno\^{\i}t Libert and Mark Manulis},
+  title     = {{Non-interactive and Re-usable Universally Composable String Commitments with Adaptive Security}},
+  booktitle = {Advances in Cryptology - ASIACRYPT 2011},
+  year      = {2011},
+  pages     = {468--485},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {7073}}

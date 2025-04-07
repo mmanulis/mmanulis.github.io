@@ -1,0 +1,10 @@
+@inproceedings{KiMa_ACNS14,
+  author    = {Franziskus Kiefer and
+               Mark Manulis},
+  title     = {{Distributed Smooth Projective Hashing and Its Application to Two-Server Password Authenticated Key Exchange}},
+  booktitle = {12th International Conference on Applied Cryptography and Network Security (ACNS)},
+  year      = {2014},
+  pages     = {199--216},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {8479}}

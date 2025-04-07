@@ -1,0 +1,9 @@
+@inproceedings{FaHsMa_CANS11,
+  author    = {Chun-I Fan and Ruei-Hau Hsu and Mark Manulis},
+  title     = {{Group Signature with Constant Revocation Costs for Signers and Verifiers}},
+  booktitle = {10th International Conference on Cryptology and Network Security (CANS)},
+  year      = {2011},
+  pages     = {214--233},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {7092}}

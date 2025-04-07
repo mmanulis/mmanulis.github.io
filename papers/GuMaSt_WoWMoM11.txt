@@ -1,0 +1,7 @@
+@inproceedings{GuMaSt_WoWMoM11,
+  author    = {Felix G{\"u}nther and Mark Manulis and Thorsten Strufe},
+  title     = {{Key Management in Distributed Online Social Networks}},
+  booktitle = {12th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WOWMOM)},
+  year      = {2011},
+  pages     = {1--7},
+  publisher = {IEEE}}

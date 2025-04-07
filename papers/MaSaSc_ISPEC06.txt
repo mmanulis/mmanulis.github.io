@@ -1,0 +1,11 @@
+@inproceedings{MaSaSc06,
+ author = {Mark Manulis and Ahmad-Reza Sadeghi and J{\"o}rg Schwenk},
+ title = {{L}inkable {D}emocratic {G}roup {S}ignatures},
+ booktitle = {Proceedings of the 2nd Information Security Practice and Experience Conference (ISPEC 2006)},
+ series = {Lecture Notes in Computer Science},
+ volume = {3903},
+ pages = {187--201},
+ publisher = {Springer-Verlag},
+ month = {March},
+ year = {2006},
+ isbn = {3-540-33052-6}}

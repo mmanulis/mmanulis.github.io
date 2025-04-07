@@ -1,0 +1,11 @@
+@inproceedings{FlMaAz_SSR14,
+  author    = {Nils Fleischhacker and
+               Mark Manulis and
+               Amir Azodi},
+  title     = {{A Modular Framework for Multi-Factor Authentication and Key Exchange}},
+  booktitle = {1st International Conference on Security Standardisation Research (SSR 2014)},
+  year      = {2014},
+  pages     = {190--214},
+  volume    = {8893},
+  series    = {LNCS},
+  publisher = {Springer}}

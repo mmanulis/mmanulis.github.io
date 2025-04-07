@@ -1,0 +1,9 @@
+@inproceedings{GaMa_ACNS19,
+  author    = {Daniel Gardham and Mark Manulis},
+  title     = {{Hierarchical Attribute-Based Signatures: Short Keys and Optimal Signature Length}},
+  booktitle = {Applied Cryptography and Network Security - ACNS 2019},
+  year      = {2019},
+  series    = {LNCS},
+  volume    = {11464},
+  pages     = {89--109},
+  publisher = {Springer}}

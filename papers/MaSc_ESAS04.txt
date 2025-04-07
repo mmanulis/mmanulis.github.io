@@ -1,0 +1,10 @@
+@inproceedings{MaSc_ESAS04,
+  author    = {Mark Manulis and J{\"o}rg Schwenk},
+  title     = {{Pseudonym Generation Scheme for Ad-Hoc Group Communication Based on IDH}},
+  booktitle = {ESAS},
+  year      = {2004},
+  pages     = {107--124},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {3313}
+}

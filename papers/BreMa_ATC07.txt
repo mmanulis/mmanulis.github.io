@@ -1,0 +1,12 @@
+@inproceedings{BreMa_ATC07,
+  author    = {Emmanuel Bresson and Mark Manulis},
+  title     = {{Malicious Participants in Group Key Exchange: Key Control and Contributiveness in the Shadow of Trust}},	
+  booktitle = {Proceedings of the 4th Autonomic and Trusted Computing Conference (ATC 2007)},
+  publisher = {Springer-Verlag},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4610},
+  pages     = {395--409},
+  year      = {2007},
+  month	    = {July},
+  isbn      = {3-540-73546-5}}
+

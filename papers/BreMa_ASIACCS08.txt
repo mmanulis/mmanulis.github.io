@@ -1,0 +1,7 @@
+@inproceedings{BreMa_ASIACCS08,
+author = {Emmanuel Bresson and Mark Manulis},
+title = {{Securing Group Key Exchange against Strong Corruptions}},
+booktitle = {Proceedings of ACM Symposium on Information, Computer and Communications Security (ASIACCS'08)},
+publisher = {ACM Press},
+pages     = {249--260},
+year      = {2008}}

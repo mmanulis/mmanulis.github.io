@@ -1,0 +1,9 @@
+@article{RoMaVietal_IJLIT08,
+author =    {Romain Robert and Mark Manulis and Florence De Villenfagne and Damien Leroy and Julien Jost and Francois Koeune and Caroline Ker and Jean-Marc Dinant and Yves Poullet and Olivier Bonaventure and Jean-Jacques Quisquater},
+title =     {{WiFi Roaming: Legal Implications and Security Constraints}},
+journal =   {Int. J. of Law and Information Technology (IJLIT)},
+volume =    {16},
+number =    {3},
+pages     = {205--241},
+publisher = {Oxford University Press},
+year      = {2008}}

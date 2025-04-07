@@ -1,0 +1,10 @@
+@inproceedings{GoBoGoMa_ICISC09,
+  author    = {M. Choudary Gorantla and Colin Boyd and Juan Manuel Gonz{\'a}lez Nieto and Mark Manulis},
+  title     = {{Generic One Round Group Key Exchange in the Standard Model}},
+  booktitle = {12th International Conference on Information, Security, and Cryptology (ICISC 2009)},
+  year      = {2009},
+  pages     = {1--15},
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {5984}}
+

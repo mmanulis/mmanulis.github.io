@@ -1,0 +1,9 @@
+@inproceedings{GuMaSt_FC11RLCPS,
+  author    = {Felix G{\"u}nther and Mark Manulis and Thorsten Strufe},
+  title     = {{Cryptographic Treatment of Private User Profiles}},
+  booktitle = {Financial Cryptography and Data Security (FC)},
+  year      = {2011},
+  pages     = {40--54},
+  volume    = {7126},
+  series    = {LNCS},
+  publisher = {Springer}}

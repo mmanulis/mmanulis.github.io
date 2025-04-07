@@ -1,0 +1,9 @@
+@article{MaPoSt_IJIS14,
+ author = {Mark Manulis and Bertram Poettering and Douglas Stebila},
+ title = {{Plaintext Awareness in Identity-Based Key Encapsulation}},
+ journal = {International Journal of Information Security},
+ volume = {13},
+ issue = {1},
+ pages = {25--49},
+ year = {2014},
+ publisher = {Springer}} 

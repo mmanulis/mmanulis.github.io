@@ -1,0 +1,7 @@
+@inproceedings{MaPo_ASIACCS11,
+ author = {Mark Manulis and Bertram Poettering},
+ title = {{Practical Affiliation-Hiding Authentication from Improved Polynomial Interpolation}},
+ booktitle = {6th ACM Symposium on Information, Computer and Communications Security (ASIACCS)},
+ year = {2011},
+ pages = {286--295},
+ publisher = {ACM}} 

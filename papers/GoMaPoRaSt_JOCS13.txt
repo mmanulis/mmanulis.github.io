@@ -1,0 +1,9 @@
+@article{GoMaPoRaSt_JOCS13,
+ author = {Juan Manuel Gonz\'{a}lez Nieto and Mark Manulis and Bertram Poettering and Jothi Rangasamy and Douglas Stebila},
+ title = {{Publicly Verifiable Ciphertexts}},
+ journal = {Journal of Computer Security},
+ volume = {21},
+ issue = {5},
+ pages = {749--778},
+ year = {2013},
+ publisher = {IOS Press}} 

@@ -1,0 +1,9 @@
+@article{GaMaSc_IJACT09,
+author =    {Sebastian Gajek and Mark Manulis and J{\"o}rg Schwenk},
+title =     {{User-Aware Provably Secure Protocols for Browser-Based Mutual Authentication}},
+journal =   {Int. J. of Applied Cryptography (IJACT)},
+volume =    {1},
+number =    {4},
+pages     = {290--308},
+publisher = {Inderscience},
+year      = {2009}}

@@ -1,0 +1,8 @@
+@inproceedings{RaBoGoMaSt_AISC14,
+ author = {Kenneth Radke and Colin Boyd and Juan {Gonzalez Nieto} and Mark Manulis and Douglas Stebila},
+ title = {{Formalising Human Recognition: A Fundamental Building Block for Security Proofs}},
+ booktitle = {12th Australasian Information Security Conference (AISC 2014)},
+ volume = {149},
+ year = {2014},
+ pages = {37--45},
+ publisher = {Australian Computer Society, Inc.}} 

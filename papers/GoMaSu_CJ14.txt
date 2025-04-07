@@ -1,0 +1,9 @@
+@article{GoMaSu_CJ14,
+ author = {Juan Manuel Gonz\'{a}lez Nieto and Mark Manulis and Dongdong Sun},
+ title = {{Forward-Secure Hierarchical Predicate Encryption}},
+ journal = {The Computer Journal},
+ volume = {57},
+ issue = {4},
+ pages = {510--536},
+ year = {2014},
+ publisher = {Oxford University Press}} 

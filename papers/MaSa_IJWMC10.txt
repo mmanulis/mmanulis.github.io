@@ -1,0 +1,9 @@
+@article{MaSa_IJWMC10,
+author =    {Mark Manulis and Ahmad-Reza Sadeghi},
+title =     {{Key Agreement for Heterogeneous Mobile Ad-Hoc Groups}},
+journal =   {Int. J. of Wireless and Mobile Computing (IJWMC)},
+volume =    {4},
+number =    {1},
+pages     = {17--30},
+publisher = {Inderscience},
+year      = {2010}}

@@ -1,0 +1,14 @@
+@inproceedings{RuMaAlLo_ESORICS2019,
+  author    = {Juan Enrique Rubio and
+               Mark Manulis and
+               Cristina Alcaraz and
+               Javier L{\'{o}}pez},
+  title     = {{Enhancing Security and Dependability of Industrial Networks with Opinion
+               Dynamics}},
+  booktitle = {Computer Security - {ESORICS} 2019},
+  series    = {LNCS},
+  volume    = {11736},
+  pages     = {263--280},
+  publisher = {Springer},
+  year      = {2019}
+}

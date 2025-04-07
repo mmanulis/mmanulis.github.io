@@ -1,0 +1,11 @@
+@inproceedings{BrBuDaFiFrKaMaOnPePoSc_ACNS10,
+  author    = {Christina Brzuska and Heike Busch and Oezguer Dagdelen and Marc Fischlin and Martin Franz and Stefan Katzenbeisser and 
+               Mark Manulis and Cristina Onete and Andreas Peter and Bertram Poettering and Dominique Schr{\"o}der},
+  title     = {{Redactable Signatures for Tree-Structured Data: Definitions and Constructions}},
+  booktitle = {8th International Conference on Applied Cryptography and Network Security (ACNS 2010)},
+  year      = {2010},
+  pages     = {87--104},
+  series    = {LNCS},
+  volume    = {6123},
+  publisher = {Springer}}
+

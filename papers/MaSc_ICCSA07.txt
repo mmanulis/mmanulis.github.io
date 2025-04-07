@@ -1,0 +1,11 @@
+@inproceedings{MaSc_ICCSA07,
+  author    = {Mark Manulis and J{\" o}rg Schwenk},
+  title     = {{Provably Secure Framework for Information Aggregation in Sensor Networks}},	
+  booktitle = {Computational Science and Its Applications - ICCSA 2007, Part I},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4705},
+  pages     = {603--621},
+  year      = {2007},
+  month	    = {August},
+  isbn      = {3-540-74468-9}}
