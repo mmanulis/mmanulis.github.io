@@ -287,7 +287,7 @@ td, th { padding: .45rem .55rem; vertical-align: top; }
 .erdoes-panel ul { margin: 0; padding-left: 1.3rem; }
 .erdoes-panel li { margin: 0; padding: .25rem 0; line-height: 1.45; }
 .erdoes-alternative { margin: .55rem 0 .2rem !important; }
-.teaching-panels, .project-panels { display: block; margin: 0; padding: 0; }
+.teaching-panels, .project-panels { display: block; width: 100%; min-width: 0; margin: 0; padding: 0; }
 #Maincontent .content > ul.teaching-panels { margin: 0; padding: 0; list-style: none; }
 #Maincontent .content > ul.teaching-panels > li { list-style: none; }
 #Maincontent .content > ul.teaching-panels > li::marker { content: ""; }
@@ -298,16 +298,18 @@ td, th { padding: .45rem .55rem; vertical-align: top; }
 #Maincontent .content > ul.project-panels { margin: 0; padding: 0; list-style: none; }
 #Maincontent .content > ul.project-panels > li { list-style: none; }
 #Maincontent .content > ul.project-panels > li::marker { content: ""; }
-.project-panel { margin: 0 0 .95rem; padding: .85rem .95rem; border: 1px solid var(--line); border-radius: 10px; background: #f8fafc; line-height: 1.48; }
+.project-panel { display: grid; width: 100%; min-width: 0; max-width: 100%; grid-template-columns: minmax(0, 1fr) 180px; grid-template-areas: "project-title project-logo" "project-metadata project-logo" "project-body project-body"; column-gap: .9rem; row-gap: 0; margin: 0 0 .95rem; padding: .85rem .95rem; border: 1px solid var(--line); border-radius: 10px; background: #f8fafc; line-height: 1.48; }
 .project-panel:last-child { margin-bottom: 0; }
-.project-title { display: block; margin: 0 0 .45rem; color: var(--navy); font-size: 1.04rem; line-height: 1.35; }
-.project-metadata { display: flex; flex-wrap: nowrap; align-items: flex-start; gap: .25em; margin: 0 0 .65rem; padding: 0; border-radius: 0; background: transparent; color: var(--muted); font-size: inherit; text-indent: 0; }
+.project-title { grid-area: project-title; display: block; align-self: start; margin: 0 0 .4rem; color: var(--navy); font-size: 1.04rem; line-height: 1.35; }
+.project-metadata { grid-area: project-metadata; display: flex; flex-wrap: nowrap; align-items: flex-start; align-self: start; gap: .25em; margin: 0; padding: 0; border-radius: 0; background: transparent; color: var(--muted); font-size: inherit; text-indent: 0; }
 .project-years { color: var(--navy); font-weight: 750; white-space: nowrap; }
-.project-funding { min-width: 0; }
+.project-funding { min-width: 0; overflow-wrap: anywhere; }
 .project-funding i { color: var(--muted); font-style: normal; font-weight: 700; white-space: nowrap; }
 .project-role-note { color: var(--muted); font-size: .82rem; }
 .project-role-badge { display: inline-flex; align-items: center; min-height: 1.55rem; padding: .15rem .55rem; border: 1px solid #f0b294; border-radius: 999px; background: #fde5d9; color: #a9471f; font-size: .76rem; font-weight: 800; line-height: 1.2; white-space: nowrap; }
-.project-panel > p { margin: 0; }
+.project-funder-logo { grid-area: project-logo; display: grid; place-items: center; width: 180px; height: 76px; overflow: hidden; border: 1px solid var(--line); border-radius: 9px; background: #fff; }
+.project-funder-logo img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.project-panel > p { grid-area: project-body; min-width: 0; margin: .65rem 0 0; overflow-wrap: anywhere; }
 .talk-hidden { display: none !important; }
 .more-talks, .hide-talks { margin: .35rem 0 0 .55rem; padding: .2rem 0; border: 0; background: transparent; color: var(--blue); font: inherit; font-weight: 700; cursor: pointer; text-decoration: underline; text-decoration-thickness: .08em; text-underline-offset: .16em; }
 .hide-talks { margin-left: .9rem; }
@@ -378,6 +380,8 @@ td, th { padding: .45rem .55rem; vertical-align: top; }
   .home-intro-research { grid-area: home-research; }
   .project-metadata { flex-wrap: wrap; row-gap: .15rem; }
   .project-funding { flex: 0 0 100%; }
+  .project-panel { grid-template-columns: minmax(0, 1fr) 112px; grid-template-areas: "project-title project-title" "project-metadata project-logo" "project-body project-body"; column-gap: .65rem; }
+  .project-funder-logo { width: 112px; height: 60px; }
   td, th { padding-inline: .25rem; }
   #Maincontent .content > ul, #Maincontent .content > ol { padding-left: 1.25rem; }
   #Maincontent .content > ul > li, #Maincontent .content > ol > li { padding: .58rem .65rem; }
