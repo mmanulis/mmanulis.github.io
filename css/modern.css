@@ -288,6 +288,7 @@ td, th { padding: .45rem .55rem; vertical-align: top; }
 .erdoes-panel li { margin: 0; padding: .25rem 0; line-height: 1.45; }
 .erdoes-alternative { margin: .55rem 0 .2rem !important; }
 .teaching-panels, .project-panels { display: block; width: 100%; min-width: 0; margin: 0; padding: 0; }
+.project-panels { --project-meta-color: #5d687c; }
 #Maincontent .content > ul.teaching-panels { margin: 0; padding: 0; list-style: none; }
 #Maincontent .content > ul.teaching-panels > li { list-style: none; }
 #Maincontent .content > ul.teaching-panels > li::marker { content: ""; }
@@ -302,9 +303,9 @@ td, th { padding: .45rem .55rem; vertical-align: top; }
 .project-panel:last-child { margin-bottom: 0; }
 .project-title { grid-area: project-title; display: block; align-self: start; margin: 0 0 .4rem; color: var(--navy); font-size: 1.04rem; line-height: 1.35; }
 .project-metadata { grid-area: project-metadata; display: flex; flex-wrap: nowrap; align-items: flex-start; align-self: start; gap: .25em; margin: 0; padding: 0; border-radius: 0; background: transparent; color: var(--muted); font-size: inherit; text-indent: 0; }
-.project-years { color: var(--navy); font-weight: 750; white-space: nowrap; }
+.project-years { color: var(--project-meta-color); font-weight: 750; white-space: nowrap; }
 .project-funding { min-width: 0; overflow-wrap: anywhere; }
-.project-funding i { color: var(--muted); font-style: normal; font-weight: 700; white-space: nowrap; }
+.project-funding i { color: var(--project-meta-color); font-style: normal; font-weight: 700; white-space: nowrap; }
 .project-role-note { color: var(--muted); font-size: .82rem; }
 .project-role-badge { display: inline-flex; align-items: center; min-height: 1.55rem; padding: .15rem .55rem; border: 1px solid #f0b294; border-radius: 999px; background: #fde5d9; color: #a9471f; font-size: .76rem; font-weight: 800; line-height: 1.2; white-space: nowrap; }
 .project-funder-logo { grid-area: project-logo; display: grid; place-items: center; width: 180px; height: 76px; overflow: hidden; border: 1px solid var(--line); border-radius: 9px; background: #fff; }
